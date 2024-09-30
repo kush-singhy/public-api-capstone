@@ -1,0 +1,2 @@
+### Initial Idea: 
+Use the Open Library or Penguin Publishing books API to create a book logger where I can search a book and add it to my list. I can mark it as read which will give me the option to rate it and leave a comment, or I can mark it as 'To Read'. 
